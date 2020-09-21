@@ -5,7 +5,7 @@
 
   ```
   git clone 
-  cd mean-docker-app
+  cd mean-users-app
   docker-compose  up
   ```
 
