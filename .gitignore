@@ -1,0 +1,12 @@
+data
+mongo/db
+.env
+
+#compiled ouput
+frontend/target/
+frontend/dist
+frontend/tmp
+api/node_modules
+
+#dependencies
+frontend/node_modules

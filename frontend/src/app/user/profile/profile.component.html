@@ -1,0 +1,20 @@
+<tabset #staticTabs>
+  <tab heading="Profile">
+    <div class="container py-3">
+      <div class="row">
+        <div class="mx-auto col-sm-6">
+          <app-profile-info [userData]="user"></app-profile-info>
+        </div>
+      </div>
+    </div>
+  </tab>
+  <tab heading="Password">
+    <div class="container py-3">
+      <div class="row">
+        <div class="mx-auto col-sm-6">
+          <app-profile-password [userData]="user"></app-profile-password>
+        </div>
+      </div>
+    </div>
+  </tab>
+</tabset>

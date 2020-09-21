@@ -1,0 +1,21 @@
+/* Global styles  */
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "~ngx-toastr/toastr";
+
+@import "~@swimlane/ngx-datatable/index.css";
+@import "~@swimlane/ngx-datatable/themes/material.scss";
+@import "~@swimlane/ngx-datatable/assets/icons.css";
+
+/*
+ * Globals
+ */
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; 
+  background-color: #fff;
+  border: 0.05rem solid #fff;
+}
