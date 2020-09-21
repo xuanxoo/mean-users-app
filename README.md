@@ -1,4 +1,4 @@
-# Mongo Express Angular Node stack dockerized app
+# MEAN dockerized app
 
 ## Getting started
 ****
@@ -13,7 +13,7 @@
 
 ## About Project
 
-This is a simple web application with the funcionallities of user registration, login page and a profile page. Developed with Angular 10.0.5 for the frontend, ExpressJs as a rest api and using Mongo as database.
+This is a simple web application developed with MEAN stack with the funcionallities of user registration, login page and a profile. Developed with Angular 10.0.5 for the frontend, ExpressJs as a rest api and using Mongo as database.
 
 Also, developed using Auth guard with tokenized services, http interceptors and services wich are secured using JWT.
 
